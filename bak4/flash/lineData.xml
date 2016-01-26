@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="gb2312"?>
+<lines id="lines">
+	<line id="0" name="0">
+		<datas id="0" name="0">
+			<data value="20" name="runningLineLength" /><!--运行线长  -->
+			<data value="5800" name="runningLineNumber"/><!-- 运行线数-->
+			<data value="32730" name="unRunningLineLength"/><!--未运行线长-->
+			<data value="3730" name="unRunningLineNumber"/><!--未运行线数-->
+
+		</datas>
+
+
+		<datas id="1" name="1">
+			<data value="90" name="principalLine"/><!--主线户数  -->
+			<data value="5800" name="specialLine"/><!--专线户数-->
+		</datas>
+		<datas id="2" name="2">
+			<data value="90" name="specialUse"/><!--专用线户数 -->
+			<data value="5800" name="publicUse"/><!-- 公用线户数-->
+			<data value="2800" name="agriculturalUse"/><!--农用线户数 -->
+		</datas>
+		<datas id="3" name="3">
+			<data value="90" name="overheadLine"/><!--架空线条数 -->
+			<data value="5800" name="cableLine"/><!-- 电缆线路条数-->
+			<data value="2800" name="hybridLine"/><!--混合线路条数-->
+		</datas>
+		<datas id="4" name="4">
+			<data value="90" name="downtownAreaDistribution"/><!-- 市中心区线数-->
+			<data value="5800" name="downtownDistribution"/><!--市区线数-->
+			<data value="2800" name="townDistribution"/><!--城镇线数 -->
+		</datas>
+		<datas id="5" name="5">
+			<data value="90" name="scoutTasks"/><!--巡视次数 -->
+			<data value="5800" name="specialScoutTasks"/><!-- 特巡次数 -->
+			<data value="2800" name="maintenances"/><!-- 维护 -->
+			<data value="2800" name="humanResourcesConsumption"/><!-- 人力资源消耗 -->
+
+		</datas>
+
+
+		<datas id="6" name="6">
+			<data value="10" name="leCongLines"/><!--  -->
+			<data value="10" name="chenCunLines"/><!--  -->
+			<data value="10" name="beiJiaoLines"/><!--  -->
+			<data value="10" name="longJiangLines"/><!--  -->
+			<data value="10" name="xingTanLines"/><!--  -->
+			<data value="10" name="rongGuiLines"/><!--  -->
+			<data value="10" name="junAnLines"/><!--  -->
+			<data value="10" name="lunJiaoLines"/><!--  -->
+			<data value="10" name="daLiangLines"/><!--  -->
+			<data value="10" name="leLiuLines"/><!--  -->
+		</datas>
+		
+		
+	</line>
+      <line id="1" name="1">
+		<datas id="0" name="0">
+			<data value="21" name="runningLineLength" />
+			<data value="5801" name="runningLineNumber"/>
+			<data value="32731" name="unRunningLineLength"/>
+			<data value="3731" name="unRunningLineNumber"/>
+
+		</datas>
+
+
+		<datas id="1" name="1">
+			<data value="91" name="principalLine"/>
+			<data value="5801" name="specialLine"/>
+		</datas>
+		<datas id="2" name="2">
+			<data value="91" name="specialUse"/>
+			<data value="5801" name="publicUse"/>
+			<data value="2801" name="agriculturalUse"/>
+		</datas>
+		<datas id="3" name="3">
+			<data value="91" name="overheadLine"/>
+			<data value="5801" name="cableLine"/>
+			<data value="2801" name="hybridLine"/>
+		</datas>
+		<datas id="4" name="4">
+			<data value="91" name="downtownAreaDistribution"/>
+			<data value="5801" name="downtownDistribution"/>
+			<data value="2801" name="townDistribution"/>
+		</datas>
+		<datas id="5" name="5">
+			<data value="91" name="scoutTasks"/>
+			<data value="5801" name="specialScoutTasks"/>
+			<data value="2801" name="maintenances"/>
+			<data value="2801" name="humanResourcesConsumption"/>
+		</datas>
+
+
+		<datas id="6" name="6">
+			<data value="11" name="leCongLines"/>
+			<data value="11" name="chenCunLines"/>
+			<data value="11" name="beiJiaoLines"/>
+			<data value="11" name="longJiangLines"/>
+			<data value="11" name="xingTanLines"/>
+			<data value="11" name="rongGuiLines"/>
+			<data value="11" name="junAnLines"/>
+			<data value="11" name="lunJiaoLines"/>
+			<data value="11" name="daLiangLines"/>
+			<data value="11" name="leLiuLines"/>
+		</datas>
+		
+		
+	</line>
+        <line id="2" name="2">
+		<datas id="0" name="0">
+			<data value="22" name="runningLineLength" />
+			<data value="5802" name="runningLineNumber"/>
+			<data value="32732" name="unRunningLineLength"/>
+			<data value="3732" name="unRunningLineNumber"/>
+
+		</datas>
+
+
+		<datas id="1" name="1">
+			<data value="92" name="principalLine"/>
+			<data value="5802" name="specialLine"/>
+		</datas>
+		<datas id="2" name="2">
+			<data value="92" name="specialUse"/>
+			<data value="5802" name="publicUse"/>
+			<data value="2802" name="agriculturalUse"/>
+		</datas>
+		<datas id="3" name="3">
+			<data value="92" name="overheadLine"/>
+			<data value="5802" name="cableLine"/>
+			<data value="2802" name="hybridLine"/>
+		</datas>
+		<datas id="4" name="4">
+			<data value="92" name="downtownAreaDistribution"/>
+			<data value="5802" name="downtownDistribution"/>
+			<data value="2801" name="townDistribution"/>
+		</datas>
+		<datas id="5" name="5">
+			<data value="92" name="scoutTasks"/>
+			<data value="5802" name="specialScoutTasks"/>
+			<data value="2802" name="maintenances"/>
+			<data value="2802" name="humanResourcesConsumption"/>
+		</datas>
+
+
+		<datas id="6" name="6">
+			<data value="12" name="leCongLines"/>
+			<data value="12" name="chenCunLines"/>
+			<data value="12" name="beiJiaoLines"/>
+			<data value="12" name="longJiangLines"/>
+			<data value="12" name="xingTanLines"/>
+			<data value="12" name="rongGuiLines"/>
+			<data value="12" name="junAnLines"/>
+			<data value="12" name="lunJiaoLines"/>
+			<data value="12" name="daLiangLines"/>
+			<data value="12" name="leLiuLines"/>
+		</datas>
+		
+		
+	</line>
+</lines>

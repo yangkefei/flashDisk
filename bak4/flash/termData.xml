@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="gb2312"?>
+<depts id="depts">
+	<dept id="0" name="0">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="20" name="totalTerminal" />
+			<data value="5800" name="totalInvestment"/>
+			<data value="32730" name="totalTask"/>
+			<data value="3730" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="10" name="venders"/>
+			<data value="A某某公司0" name="transformerVender"/>
+			<data value="A某某公司0" name="switchVender"/>
+			<data value="B某某公司0" name="towerVender"/>
+			<data value="C某某公司0" name="lineVender"/>
+			<data value="D某某公司0" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="90" name="transformers"/>
+			<data value="5800" name="switchs"/>
+			<data value="3130" name="towers"/>
+			<data value="3230" name="lines"/>
+			<data value="3720" name="electricalRooms"/>
+		</datas>
+	</dept>
+    <dept id="1" name="1">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="21" name="totalTerminal" />
+			<data value="5801" name="totalInvestment"/>
+			<data value="32731" name="totalTask"/>
+			<data value="3731" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="11" name="venders"/>
+			<data value="A某某公司1" name="transformerVender"/>
+			<data value="A某某公司1" name="switchVender"/>
+			<data value="B某某公司1" name="towerVender"/>
+			<data value="C某某公司1" name="lineVender"/>
+			<data value="D某某公司1" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="91" name="transformers"/>
+			<data value="5801" name="switchs"/>
+			<data value="3131" name="towers"/>
+			<data value="3231" name="lines"/>
+			<data value="3721" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="2" name="2">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="22" name="totalTerminal" />
+			<data value="5802" name="totalInvestment"/>
+			<data value="32732" name="totalTask"/>
+			<data value="3732" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="12" name="venders"/>
+			<data value="A某某公司2" name="transformerVender"/>
+			<data value="A某某公司2" name="switchVender"/>
+			<data value="B某某公司2" name="towerVender"/>
+			<data value="C某某公司2" name="lineVender"/>
+			<data value="D某某公司2" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="92" name="transformers"/>
+			<data value="5802" name="switchs"/>
+			<data value="3132" name="towers"/>
+			<data value="3232" name="lines"/>
+			<data value="3722" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="3" name="3">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="23" name="totalTerminal" />
+			<data value="5803" name="totalInvestment"/>
+			<data value="32733" name="totalTask"/>
+			<data value="3733" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="13" name="venders"/>
+			<data value="A某某公司3" name="transformerVender"/>
+			<data value="A某某公司3" name="switchVender"/>
+			<data value="B某某公司3" name="towerVender"/>
+			<data value="C某某公司3" name="lineVender"/>
+			<data value="D某某公司3" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="93" name="transformers"/>
+			<data value="5803" name="switchs"/>
+			<data value="3133" name="towers"/>
+			<data value="3233" name="lines"/>
+			<data value="3723" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="4" name="4">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="24" name="totalTerminal" />
+			<data value="5804" name="totalInvestment"/>
+			<data value="32734" name="totalTask"/>
+			<data value="3734" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="14" name="venders"/>
+			<data value="A某某公司4" name="transformerVender"/>
+			<data value="A某某公司4" name="switchVender"/>
+			<data value="B某某公司4" name="towerVender"/>
+			<data value="C某某公司4" name="lineVender"/>
+			<data value="D某某公司4" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="94" name="transformers"/>
+			<data value="5804" name="switchs"/>
+			<data value="3134" name="towers"/>
+			<data value="3234" name="lines"/>
+			<data value="3724" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="5" name="5">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="25" name="totalTerminal" />
+			<data value="5805" name="totalInvestment"/>
+			<data value="32735" name="totalTask"/>
+			<data value="3735" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="15" name="venders"/>
+			<data value="A某某公司5" name="transformerVender"/>
+			<data value="A某某公司5" name="switchVender"/>
+			<data value="B某某公司5" name="towerVender"/>
+			<data value="C某某公司5" name="lineVender"/>
+			<data value="D某某公司5" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="95" name="transformers"/>
+			<data value="5805" name="switchs"/>
+			<data value="3135" name="towers"/>
+			<data value="3235" name="lines"/>
+			<data value="3725" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="6" name="6">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="26" name="totalTerminal" />
+			<data value="5806" name="totalInvestment"/>
+			<data value="32736" name="totalTask"/>
+			<data value="3736" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="16" name="venders"/>
+			<data value="A某某公司6" name="transformerVender"/>
+			<data value="A某某公司6" name="switchVender"/>
+			<data value="B某某公司6" name="towerVender"/>
+			<data value="C某某公司6" name="lineVender"/>
+			<data value="D某某公司6" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="96" name="transformers"/>
+			<data value="5806" name="switchs"/>
+			<data value="3136" name="towers"/>
+			<data value="3236" name="lines"/>
+			<data value="3726" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="7" name="7">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="27" name="totalTerminal" />
+			<data value="5807" name="totalInvestment"/>
+			<data value="32737" name="totalTask"/>
+			<data value="3737" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="17" name="venders"/>
+			<data value="A某某公司7" name="transformerVender"/>
+			<data value="A某某公司7" name="switchVender"/>
+			<data value="B某某公司7" name="towerVender"/>
+			<data value="C某某公司7" name="lineVender"/>
+			<data value="D某某公司7" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="97" name="transformers"/>
+			<data value="5807" name="switchs"/>
+			<data value="3137" name="towers"/>
+			<data value="3237" name="lines"/>
+			<data value="3727" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="8" name="8">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="28" name="totalTerminal" />
+			<data value="5808" name="totalInvestment"/>
+			<data value="32738" name="totalTask"/>
+			<data value="3738" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="18" name="venders"/>
+			<data value="A某某公司8" name="transformerVender"/>
+			<data value="A某某公司8" name="switchVender"/>
+			<data value="B某某公司8" name="towerVender"/>
+			<data value="C某某公司8" name="lineVender"/>
+			<data value="D某某公司8" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="98" name="transformers"/>
+			<data value="5808" name="switchs"/>
+			<data value="3138" name="towers"/>
+			<data value="3238" name="lines"/>
+			<data value="3728" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="9" name="9">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="29" name="totalTerminal" />
+			<data value="5809" name="totalInvestment"/>
+			<data value="32739" name="totalTask"/>
+			<data value="3739" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="19" name="venders"/>
+			<data value="A某某公司9" name="transformerVender"/>
+			<data value="A某某公司9" name="switchVender"/>
+			<data value="B某某公司9" name="towerVender"/>
+			<data value="C某某公司9" name="lineVender"/>
+			<data value="D某某公司9" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="99" name="transformers"/>
+			<data value="5809" name="switchs"/>
+			<data value="3139" name="towers"/>
+			<data value="3239" name="lines"/>
+			<data value="3729" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="10" name="10">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="20" name="totalTerminal" />
+			<data value="5800" name="totalInvestment"/>
+			<data value="32730" name="totalTask"/>
+			<data value="3730" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="10" name="venders"/>
+			<data value="A某某公司0" name="transformerVender"/>
+			<data value="A某某公司0" name="switchVender"/>
+			<data value="B某某公司0" name="towerVender"/>
+			<data value="C某某公司0" name="lineVender"/>
+			<data value="D某某公司0" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="90" name="transformers"/>
+			<data value="5800" name="switchs"/>
+			<data value="3130" name="towers"/>
+			<data value="3230" name="lines"/>
+			<data value="3720" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="11" name="11">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="21" name="totalTerminal" />
+			<data value="5801" name="totalInvestment"/>
+			<data value="32731" name="totalTask"/>
+			<data value="3731" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="11" name="venders"/>
+			<data value="A某某公司1" name="transformerVender"/>
+			<data value="A某某公司1" name="switchVender"/>
+			<data value="B某某公司1" name="towerVender"/>
+			<data value="C某某公司1" name="lineVender"/>
+			<data value="D某某公司1" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="91" name="transformers"/>
+			<data value="5801" name="switchs"/>
+			<data value="3131" name="towers"/>
+			<data value="3231" name="lines"/>
+			<data value="3721" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="12" name="12">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="22" name="totalTerminal" />
+			<data value="5802" name="totalInvestment"/>
+			<data value="32732" name="totalTask"/>
+			<data value="3732" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="12" name="venders"/>
+			<data value="A某某公司2" name="transformerVender"/>
+			<data value="A某某公司2" name="switchVender"/>
+			<data value="B某某公司2" name="towerVender"/>
+			<data value="C某某公司2" name="lineVender"/>
+			<data value="D某某公司2" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="92" name="transformers"/>
+			<data value="5802" name="switchs"/>
+			<data value="3132" name="towers"/>
+			<data value="3232" name="lines"/>
+			<data value="3722" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="13" name="13">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="23" name="totalTerminal" />
+			<data value="5803" name="totalInvestment"/>
+			<data value="32733" name="totalTask"/>
+			<data value="3733" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="13" name="venders"/>
+			<data value="A某某公司3" name="transformerVender"/>
+			<data value="A某某公司3" name="switchVender"/>
+			<data value="B某某公司3" name="towerVender"/>
+			<data value="C某某公司3" name="lineVender"/>
+			<data value="D某某公司3" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="93" name="transformers"/>
+			<data value="5803" name="switchs"/>
+			<data value="3133" name="towers"/>
+			<data value="3233" name="lines"/>
+			<data value="3723" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="14" name="14">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="24" name="totalTerminal" />
+			<data value="5804" name="totalInvestment"/>
+			<data value="32734" name="totalTask"/>
+			<data value="3734" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="14" name="venders"/>
+			<data value="A某某公司4" name="transformerVender"/>
+			<data value="A某某公司4" name="switchVender"/>
+			<data value="B某某公司4" name="towerVender"/>
+			<data value="C某某公司4" name="lineVender"/>
+			<data value="D某某公司4" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="94" name="transformers"/>
+			<data value="5804" name="switchs"/>
+			<data value="3134" name="towers"/>
+			<data value="3234" name="lines"/>
+			<data value="3724" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="15" name="15">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="25" name="totalTerminal" />
+			<data value="5805" name="totalInvestment"/>
+			<data value="32735" name="totalTask"/>
+			<data value="3735" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="15" name="venders"/>
+			<data value="A某某公司5" name="transformerVender"/>
+			<data value="A某某公司5" name="switchVender"/>
+			<data value="B某某公司5" name="towerVender"/>
+			<data value="C某某公司5" name="lineVender"/>
+			<data value="D某某公司5" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="95" name="transformers"/>
+			<data value="5805" name="switchs"/>
+			<data value="3135" name="towers"/>
+			<data value="3235" name="lines"/>
+			<data value="3725" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="16" name="16">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="26" name="totalTerminal" />
+			<data value="5806" name="totalInvestment"/>
+			<data value="32736" name="totalTask"/>
+			<data value="3736" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="16" name="venders"/>
+			<data value="A某某公司6" name="transformerVender"/>
+			<data value="A某某公司6" name="switchVender"/>
+			<data value="B某某公司6" name="towerVender"/>
+			<data value="C某某公司6" name="lineVender"/>
+			<data value="D某某公司6" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="96" name="transformers"/>
+			<data value="5806" name="switchs"/>
+			<data value="3136" name="towers"/>
+			<data value="3236" name="lines"/>
+			<data value="3726" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="17" name="17">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="27" name="totalTerminal" />
+			<data value="5807" name="totalInvestment"/>
+			<data value="32737" name="totalTask"/>
+			<data value="3737" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="17" name="venders"/>
+			<data value="A某某公司7" name="transformerVender"/>
+			<data value="A某某公司7" name="switchVender"/>
+			<data value="B某某公司7" name="towerVender"/>
+			<data value="C某某公司7" name="lineVender"/>
+			<data value="D某某公司7" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="97" name="transformers"/>
+			<data value="5807" name="switchs"/>
+			<data value="3137" name="towers"/>
+			<data value="3237" name="lines"/>
+			<data value="3727" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="18" name="18">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="28" name="totalTerminal" />
+			<data value="5808" name="totalInvestment"/>
+			<data value="32738" name="totalTask"/>
+			<data value="3738" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="18" name="venders"/>
+			<data value="A某某公司8" name="transformerVender"/>
+			<data value="A某某公司8" name="switchVender"/>
+			<data value="B某某公司8" name="towerVender"/>
+			<data value="C某某公司8" name="lineVender"/>
+			<data value="D某某公司8" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="98" name="transformers"/>
+			<data value="5808" name="switchs"/>
+			<data value="3138" name="towers"/>
+			<data value="3238" name="lines"/>
+			<data value="3728" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="19" name="19">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="29" name="totalTerminal" />
+			<data value="5809" name="totalInvestment"/>
+			<data value="32739" name="totalTask"/>
+			<data value="3739" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="19" name="venders"/>
+			<data value="A某某公司9" name="transformerVender"/>
+			<data value="A某某公司9" name="switchVender"/>
+			<data value="B某某公司9" name="towerVender"/>
+			<data value="C某某公司9" name="lineVender"/>
+			<data value="D某某公司9" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="99" name="transformers"/>
+			<data value="5809" name="switchs"/>
+			<data value="3139" name="towers"/>
+			<data value="3239" name="lines"/>
+			<data value="3729" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="20" name="20">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="20" name="totalTerminal" />
+			<data value="5800" name="totalInvestment"/>
+			<data value="32730" name="totalTask"/>
+			<data value="3730" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="10" name="venders"/>
+			<data value="A某某公司0" name="transformerVender"/>
+			<data value="A某某公司0" name="switchVender"/>
+			<data value="B某某公司0" name="towerVender"/>
+			<data value="C某某公司0" name="lineVender"/>
+			<data value="D某某公司0" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="90" name="transformers"/>
+			<data value="5800" name="switchs"/>
+			<data value="3130" name="towers"/>
+			<data value="3230" name="lines"/>
+			<data value="3720" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="21" name="21">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="21" name="totalTerminal" />
+			<data value="5801" name="totalInvestment"/>
+			<data value="32731" name="totalTask"/>
+			<data value="3731" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="11" name="venders"/>
+			<data value="A某某公司1" name="transformerVender"/>
+			<data value="A某某公司1" name="switchVender"/>
+			<data value="B某某公司1" name="towerVender"/>
+			<data value="C某某公司1" name="lineVender"/>
+			<data value="D某某公司1" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="91" name="transformers"/>
+			<data value="5801" name="switchs"/>
+			<data value="3131" name="towers"/>
+			<data value="3231" name="lines"/>
+			<data value="3721" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="22" name="22">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="22" name="totalTerminal" />
+			<data value="5802" name="totalInvestment"/>
+			<data value="32732" name="totalTask"/>
+			<data value="3732" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="12" name="venders"/>
+			<data value="A某某公司2" name="transformerVender"/>
+			<data value="A某某公司2" name="switchVender"/>
+			<data value="B某某公司2" name="towerVender"/>
+			<data value="C某某公司2" name="lineVender"/>
+			<data value="D某某公司2" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="92" name="transformers"/>
+			<data value="5802" name="switchs"/>
+			<data value="3132" name="towers"/>
+			<data value="3232" name="lines"/>
+			<data value="3722" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="23" name="23">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="23" name="totalTerminal" />
+			<data value="5803" name="totalInvestment"/>
+			<data value="32733" name="totalTask"/>
+			<data value="3733" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="13" name="venders"/>
+			<data value="A某某公司3" name="transformerVender"/>
+			<data value="A某某公司3" name="switchVender"/>
+			<data value="B某某公司3" name="towerVender"/>
+			<data value="C某某公司3" name="lineVender"/>
+			<data value="D某某公司3" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="93" name="transformers"/>
+			<data value="5803" name="switchs"/>
+			<data value="3133" name="towers"/>
+			<data value="3233" name="lines"/>
+			<data value="3723" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="24" name="24">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="24" name="totalTerminal" />
+			<data value="5804" name="totalInvestment"/>
+			<data value="32734" name="totalTask"/>
+			<data value="3734" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="14" name="venders"/>
+			<data value="A某某公司4" name="transformerVender"/>
+			<data value="A某某公司4" name="switchVender"/>
+			<data value="B某某公司4" name="towerVender"/>
+			<data value="C某某公司4" name="lineVender"/>
+			<data value="D某某公司4" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="94" name="transformers"/>
+			<data value="5804" name="switchs"/>
+			<data value="3134" name="towers"/>
+			<data value="3234" name="lines"/>
+			<data value="3724" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="25" name="25">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="25" name="totalTerminal" />
+			<data value="5805" name="totalInvestment"/>
+			<data value="32735" name="totalTask"/>
+			<data value="3735" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="15" name="venders"/>
+			<data value="A某某公司5" name="transformerVender"/>
+			<data value="A某某公司5" name="switchVender"/>
+			<data value="B某某公司5" name="towerVender"/>
+			<data value="C某某公司5" name="lineVender"/>
+			<data value="D某某公司5" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="95" name="transformers"/>
+			<data value="5805" name="switchs"/>
+			<data value="3135" name="towers"/>
+			<data value="3235" name="lines"/>
+			<data value="3725" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="26" name="26">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="26" name="totalTerminal" />
+			<data value="5806" name="totalInvestment"/>
+			<data value="32736" name="totalTask"/>
+			<data value="3736" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="16" name="venders"/>
+			<data value="A某某公司6" name="transformerVender"/>
+			<data value="A某某公司6" name="switchVender"/>
+			<data value="B某某公司6" name="towerVender"/>
+			<data value="C某某公司6" name="lineVender"/>
+			<data value="D某某公司6" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="96" name="transformers"/>
+			<data value="5806" name="switchs"/>
+			<data value="3136" name="towers"/>
+			<data value="3236" name="lines"/>
+			<data value="3726" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="27" name="27">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="27" name="totalTerminal" />
+			<data value="5807" name="totalInvestment"/>
+			<data value="32737" name="totalTask"/>
+			<data value="3737" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="17" name="venders"/>
+			<data value="A某某公司7" name="transformerVender"/>
+			<data value="A某某公司7" name="switchVender"/>
+			<data value="B某某公司7" name="towerVender"/>
+			<data value="C某某公司7" name="lineVender"/>
+			<data value="D某某公司7" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="97" name="transformers"/>
+			<data value="5807" name="switchs"/>
+			<data value="3137" name="towers"/>
+			<data value="3237" name="lines"/>
+			<data value="3727" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="28" name="28">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="28" name="totalTerminal" />
+			<data value="5808" name="totalInvestment"/>
+			<data value="32738" name="totalTask"/>
+			<data value="3738" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="18" name="venders"/>
+			<data value="A某某公司8" name="transformerVender"/>
+			<data value="A某某公司8" name="switchVender"/>
+			<data value="B某某公司8" name="towerVender"/>
+			<data value="C某某公司8" name="lineVender"/>
+			<data value="D某某公司8" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="98" name="transformers"/>
+			<data value="5808" name="switchs"/>
+			<data value="3138" name="towers"/>
+			<data value="3238" name="lines"/>
+			<data value="3728" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="29" name="29">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="29" name="totalTerminal" />
+			<data value="5809" name="totalInvestment"/>
+			<data value="32739" name="totalTask"/>
+			<data value="3739" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="19" name="venders"/>
+			<data value="A某某公司9" name="transformerVender"/>
+			<data value="A某某公司9" name="switchVender"/>
+			<data value="B某某公司9" name="towerVender"/>
+			<data value="C某某公司9" name="lineVender"/>
+			<data value="D某某公司9" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="99" name="transformers"/>
+			<data value="5809" name="switchs"/>
+			<data value="3139" name="towers"/>
+			<data value="3239" name="lines"/>
+			<data value="3729" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="30" name="30">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="20" name="totalTerminal" />
+			<data value="5800" name="totalInvestment"/>
+			<data value="32730" name="totalTask"/>
+			<data value="3730" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="10" name="venders"/>
+			<data value="A某某公司0" name="transformerVender"/>
+			<data value="A某某公司0" name="switchVender"/>
+			<data value="B某某公司0" name="towerVender"/>
+			<data value="C某某公司0" name="lineVender"/>
+			<data value="D某某公司0" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="90" name="transformers"/>
+			<data value="5800" name="switchs"/>
+			<data value="3130" name="towers"/>
+			<data value="3230" name="lines"/>
+			<data value="3720" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="31" name="31">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="21" name="totalTerminal" />
+			<data value="5801" name="totalInvestment"/>
+			<data value="32731" name="totalTask"/>
+			<data value="3731" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="11" name="venders"/>
+			<data value="A某某公司1" name="transformerVender"/>
+			<data value="A某某公司1" name="switchVender"/>
+			<data value="B某某公司1" name="towerVender"/>
+			<data value="C某某公司1" name="lineVender"/>
+			<data value="D某某公司1" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="91" name="transformers"/>
+			<data value="5801" name="switchs"/>
+			<data value="3131" name="towers"/>
+			<data value="3231" name="lines"/>
+			<data value="3721" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="32" name="32">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="22" name="totalTerminal" />
+			<data value="5802" name="totalInvestment"/>
+			<data value="32732" name="totalTask"/>
+			<data value="3732" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="12" name="venders"/>
+			<data value="A某某公司2" name="transformerVender"/>
+			<data value="A某某公司2" name="switchVender"/>
+			<data value="B某某公司2" name="towerVender"/>
+			<data value="C某某公司2" name="lineVender"/>
+			<data value="D某某公司2" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="92" name="transformers"/>
+			<data value="5802" name="switchs"/>
+			<data value="3132" name="towers"/>
+			<data value="3232" name="lines"/>
+			<data value="3722" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="33" name="33">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="23" name="totalTerminal" />
+			<data value="5803" name="totalInvestment"/>
+			<data value="32733" name="totalTask"/>
+			<data value="3733" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="13" name="venders"/>
+			<data value="A某某公司3" name="transformerVender"/>
+			<data value="A某某公司3" name="switchVender"/>
+			<data value="B某某公司3" name="towerVender"/>
+			<data value="C某某公司3" name="lineVender"/>
+			<data value="D某某公司3" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="93" name="transformers"/>
+			<data value="5803" name="switchs"/>
+			<data value="3133" name="towers"/>
+			<data value="3233" name="lines"/>
+			<data value="3723" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="34" name="34">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="24" name="totalTerminal" />
+			<data value="5804" name="totalInvestment"/>
+			<data value="32734" name="totalTask"/>
+			<data value="3734" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="14" name="venders"/>
+			<data value="A某某公司4" name="transformerVender"/>
+			<data value="A某某公司4" name="switchVender"/>
+			<data value="B某某公司4" name="towerVender"/>
+			<data value="C某某公司4" name="lineVender"/>
+			<data value="D某某公司4" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="94" name="transformers"/>
+			<data value="5804" name="switchs"/>
+			<data value="3134" name="towers"/>
+			<data value="3234" name="lines"/>
+			<data value="3724" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="35" name="35">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="25" name="totalTerminal" />
+			<data value="5805" name="totalInvestment"/>
+			<data value="32735" name="totalTask"/>
+			<data value="3735" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="15" name="venders"/>
+			<data value="A某某公司5" name="transformerVender"/>
+			<data value="A某某公司5" name="switchVender"/>
+			<data value="B某某公司5" name="towerVender"/>
+			<data value="C某某公司5" name="lineVender"/>
+			<data value="D某某公司5" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="95" name="transformers"/>
+			<data value="5805" name="switchs"/>
+			<data value="3135" name="towers"/>
+			<data value="3235" name="lines"/>
+			<data value="3725" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="36" name="36">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="26" name="totalTerminal" />
+			<data value="5806" name="totalInvestment"/>
+			<data value="32736" name="totalTask"/>
+			<data value="3736" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="16" name="venders"/>
+			<data value="A某某公司6" name="transformerVender"/>
+			<data value="A某某公司6" name="switchVender"/>
+			<data value="B某某公司6" name="towerVender"/>
+			<data value="C某某公司6" name="lineVender"/>
+			<data value="D某某公司6" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="96" name="transformers"/>
+			<data value="5806" name="switchs"/>
+			<data value="3136" name="towers"/>
+			<data value="3236" name="lines"/>
+			<data value="3726" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="37" name="37">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="27" name="totalTerminal" />
+			<data value="5807" name="totalInvestment"/>
+			<data value="32737" name="totalTask"/>
+			<data value="3737" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="17" name="venders"/>
+			<data value="A某某公司7" name="transformerVender"/>
+			<data value="A某某公司7" name="switchVender"/>
+			<data value="B某某公司7" name="towerVender"/>
+			<data value="C某某公司7" name="lineVender"/>
+			<data value="D某某公司7" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="97" name="transformers"/>
+			<data value="5807" name="switchs"/>
+			<data value="3137" name="towers"/>
+			<data value="3237" name="lines"/>
+			<data value="3727" name="electricalRooms"/>
+		</datas>
+	</dept>
+	<dept id="38" name="38">
+		<datas id="generalSituation" name="generalSituation">
+			<data value="28" name="totalTerminal" />
+			<data value="5808" name="totalInvestment"/>
+			<data value="32738" name="totalTask"/>
+			<data value="3738" name="totalTaskTime"/>
+		</datas>
+		
+		<datas id="manufacturer" name="manufacturer">
+			<data value="18" name="venders"/>
+			<data value="A某某公司8" name="transformerVender"/>
+			<data value="A某某公司8" name="switchVender"/>
+			<data value="B某某公司8" name="towerVender"/>
+			<data value="C某某公司8" name="lineVender"/>
+			<data value="D某某公司8" name="electricalRoomVender"/>
+		</datas>
+		
+		<datas id="prepareEquipmentSituation" name="prepareEquipmentSituation">
+			<data value="98" name="transformers"/>
+			<data value="5808" name="switchs"/>
+			<data value="3138" name="towers"/>
+			<data value="3238" name="lines"/>
+			<data value="3728" name="electricalRooms"/>
+		</datas>
+	</dept>
+	
+	
+</depts>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="gb2312"?>
+<users id="users">
+	<user id="0" name="0">
+		<datas id="basicInformation" name="basicInformation">
+			<data value="20" name="totalHouseholds" /><!-- 总户数 -->
+			<data value="5800" name="totalMeters"/><!-- 总表数 -->
+			<data value="32730" name="totalElectricity"/><!-- 总用电 -->
+			<data value="3730" name="maximumPower"/><!--最大功率  -->
+                        <data value="3730" name="maximumPowerlHouseholds"/><!-- 最大功率户数 -->
+
+		</datas>
+		
+		<datas id="userCoverage" name="userCoverage">
+			<data value="10" name="leCongHouseholds"/><!--乐从所户数  -->
+			<data value="10" name="chenCunHouseholds"/><!-- 陈村所户数 -->
+			<data value="10" name="beiJiaoHouseholds"/><!-- 北滘所户数 -->
+			<data value="10" name="longJiangHouseholds"/><!-- 龙江所户数 -->
+			<data value="10" name="xingTanHouseholds"/><!--  杏坛所户数-->
+			<data value="10" name="rongGuiHouseholds"/><!--  容桂所户数-->
+			<data value="10" name="junAnHouseholds"/><!--  均安所户数-->
+			<data value="10" name="lunJiaoHouseholds"/><!--  伦滘所户数-->
+			<data value="10" name="daLiangHouseholds"/><!-- 大良所户数 -->
+			<data value="10" name="leLiuHouseholds"/><!--  勒流所户数-->
+		</datas>
+		
+		<datas id="peakAndValley" name="peakAndValley">
+			<data value="90" name="peak1"/><!-- 峰值9:00至12:00户数 -->
+			<data value="5800" name="peak2"/><!-- 峰值13:00至18:00户数 -->
+			<data value="3130" name="peak3"/><!-- 峰值20:00至23:00户数 -->
+			<data value="3230" name="valley1"/><!-- 谷值23:00至9:00户数 -->
+			<data value="3720" name="valley2"/><!-- 谷值12:00至13:00户数 -->
+		</datas>
+	</user>
+        <user id="1" name="1">
+		<datas id="basicInformation" name="basicInformation">
+			<data value="21" name="totalHouseholds" />
+			<data value="5801" name="totalMeters"/>
+			<data value="32731" name="totalElectricity"/>
+			<data value="3731" name="maximumPower"/>
+                        <data value="3731" name="maximumPowerlHouseholds"/>
+
+		</datas>
+		
+		<datas id="userCoverage" name="userCoverage">
+			<data value="11" name="leCongHouseholds"/>
+			<data value="11" name="chenCunHouseholds"/>
+			<data value="11" name="beiJiaoHouseholds"/>
+			<data value="11" name="longJiangHouseholds"/>
+			<data value="11" name="xingTanHouseholds"/>
+			<data value="11" name="rongGuiHouseholds"/>
+			<data value="11" name="junAnHouseholds"/>
+			<data value="11" name="lunJiaoHouseholds"/>
+			<data value="11" name="daLiangHouseholds"/>
+			<data value="11" name="leLiuHouseholds"/>
+		</datas>
+		
+		<datas id="peakAndValley" name="peakAndValley">
+			<data value="91" name="peak1"/>
+			<data value="5801" name="peak2"/>
+			<data value="3131" name="peak3"/>
+			<data value="3231" name="valley1"/>
+			<data value="3721" name="valley2"/>
+		</datas>
+	</user>
+    
+</users>

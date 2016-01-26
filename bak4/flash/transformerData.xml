@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="gb2312"?>
+<transformers id="transformers">
+	<transformer id="0" name="0">
+		<datas id="basicInformation" name="basicInformation">
+			<data value="2000" name="totalTransformers" /><!--变压器总数  -->
+			<data value="5800" name="totalCapacity"/><!-- 总容量 -->
+			<data value="32730" name="transformerOverhaul"/><!--变压器检修-->
+
+		</datas>
+		
+		<datas id="transformerCoverage" name="transformerCoverage">
+			<data value="10" name="leCongTransformers"/><!--乐从所变压器台数-->
+			<data value="10" name="chenCunTransformers"/><!--陈村所变压器台数 -->
+			<data value="10" name="beiJiaoTransformers"/><!--北滘所变压器台数 -->
+			<data value="10" name="longJiangTransformers"/><!-- 龙江所变压器台数 -->
+			<data value="10" name="xingTanTransformers"/><!--杏坛所变压器台数  -->
+			<data value="10" name="rongGuiTransformers"/><!--容桂所变压器台数  -->
+			<data value="10" name="junAnTransformers"/><!-- 均安所变压器台数  -->
+			<data value="10" name="lunJiaoTransformers"/><!-- 伦滘所变压器台数  -->
+			<data value="10" name="daLiangTransformers"/><!-- 大良所变压器台数  -->
+			<data value="10" name="leLiuTransformers"/><!-- 勒流所变压器台数 -->
+		</datas>
+		
+		<datas id="deviceAllocation" name="deviceAllocation">
+			<data value="90" name="taiBian"/><!--台变数 -->
+			<data value="5800" name="distributionRoom"/><!--配电房数-->
+			<data value="3130" name="boxChange"/><!--箱变数-->
+		</datas>
+	</transformer>
+        <transformer id="1" name="1">
+		<datas id="basicInformation" name="basicInformation">
+			<data value="2001" name="totalTransformers" />
+			<data value="5801" name="totalCapacity"/>
+			<data value="32731" name="transformerOverhaul"/>
+
+		</datas>
+		
+		<datas id="transformerCoverage" name="transformerCoverage">
+			<data value="11" name="leCongTransformers"/>
+			<data value="11" name="chenCunTransformers"/>
+			<data value="11" name="beiJiaoTransformers"/>
+			<data value="11" name="longJiangTransformers"/>
+			<data value="11" name="xingTanTransformers"/>
+			<data value="11" name="rongGuiTransformers"/>
+			<data value="11" name="junAnTransformers"/>
+			<data value="11" name="lunJiaoTransformers"/>
+			<data value="11" name="daLiangTransformers"/>
+			<data value="11" name="leLiuTransformers"/>
+		</datas>
+		
+		<datas id="deviceAllocation" name="deviceAllocation">
+			<data value="91" name="taiBian"/>
+			<data value="5801" name="distributionRoom"/>
+			<data value="3131" name="boxChange"/>
+		</datas>
+	</transformer>
+        
+    
+</transformers>
